@@ -63,7 +63,7 @@ const Apriori = () => {
                     </div>
                 </div>
             </div>
-            <div className='border border-t-0 height-end font-size-125'>WGS-84</div>
+            <div className='border border-t-0 font-size-125'>WGS-84</div>
         </div>
     )
 }

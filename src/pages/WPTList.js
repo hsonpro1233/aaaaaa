@@ -23,7 +23,7 @@ const WPTList = () => {
                             </div>
                         </div>
                         <div className='data list padding-05'>
-                            <ul className='clear-list flex-box font-size-11 height-1664'>
+                            <ul className='clear-list flex-box font-size-1 height-1664'>
                                 {WTPList.map((WTPList, index) => {
                                     return (
                                         <li key={index} className={index === 0 ? 'ctrl width-3 ctrl line-1 active' : 'ctrl width-3 line-1 ctrl '}>
@@ -42,7 +42,7 @@ const WPTList = () => {
                                 })}
                             </ul>
                         </div>
-                        <div className='flex-box letter-spacing-2 border border-bt-0 border-r-0'>
+                        <div className='flex-box letter-spacing-2 font-size115 border border-r-0'>
                             <span >B</span>
                             <span > &ordm; R</span>
                             <span >NM</span>
@@ -52,7 +52,7 @@ const WPTList = () => {
                 <div className='block-right block-25'>
                     <div className='dechovui text-align-center font-size-12 padding-0-5'>
                         <div className>PgUp</div>
-                        <div className='margin-b-1'>PgDn</div>
+                        <div className='margin-b-05'>PgDn</div>
                     </div>
                     <div className='dechovui text-align-center font-size-14 border border-l-0 border-r-0 letter-spacing-2'>
                         <div className='padding-0-5'>Start</div>

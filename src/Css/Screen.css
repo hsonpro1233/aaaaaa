@@ -25,14 +25,14 @@
 }
 
 .tag-name {
-    font-size: 1.25rem;
+    font-size: 1.2rem;
 }
 
 /* screen main */
 .main-screen {
     padding-right: 4rem;
     text-align: right;
-    font-size: 3.65rem;
+    font-size: 3.5rem;
 }
 
 .direction {
@@ -44,7 +44,6 @@
     width: 100%;
     display: flex;
     justify-content: space-between;
-    font-size: 1.25rem;
     letter-spacing: .25rem;
     border: 1px solid #000 ;
     border-bottom: 0;

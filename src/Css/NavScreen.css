@@ -37,7 +37,7 @@ nav.nav ul {
 
 .form-input {
     margin: 0;
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     padding: 0;
     border-left: 0;
     border-top: 0;
@@ -57,6 +57,14 @@ nav.nav ul {
 
 .form-name {
     font-size: 1.25rem;
+}
+
+.font-size115{
+    font-size: 1.15rem;
+}
+
+.basic-pd {
+    padding: 1.8rem 2rem;
 }
 
 .margin-b-05{
@@ -155,7 +163,7 @@ table, th, td {
 }
 
 .border-bt-0 {
-    border-bottom: 0;
+    border-bottom: 0 !important;
 }
 .border-bt-1 {
     border-bottom: 1px solid #000;
@@ -305,24 +313,23 @@ table, th, td {
 }
 
 .date-time-2 {
-    height: 3.64rem;
-    font-size: 1.1rem;
+    font-size: 1rem;
 }
 
-.list-tag > div {
+.screen-tag-block {
     padding: 0.25rem;
     width: 100%;
     border-bottom: 1px solid #000;
     text-align: center;
 }
 .list-tag > div:last-child {
-    border-bottom: 0;
-    height: 3.64rem;
+    /* border-bottom: 0;
+    height: 3.64rem; */
 }
 
 
 .coordinatess {
-    font-size: 1.35rem;
+    font-size: 1.25rem;
     letter-spacing: .15rem;
 }
 
@@ -331,7 +338,7 @@ table, th, td {
 }
 
 .tag-block {
-    margin: .7rem 0;
+    margin: .6rem 0;
 }
 
 
@@ -390,7 +397,6 @@ table, th, td {
     margin: 0 1rem;
 }
 .channel td {
-    padding: .3rem;
     font-size: 1rem;
 }
 .height-220 {
@@ -438,7 +444,7 @@ table, th, td {
 }
 
 .height-end {
-    height: 1.7rem;
+    height: 1.1rem;
 }
 
 .ell .classform {

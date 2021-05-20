@@ -6,7 +6,7 @@ const Basicinfo = () => {
             <div className='menu-head text-align-center border-bt-1 padding-0-5 '>Basic infomation</div>
             <div className='blocks footer-block border-bt-0'>
                 <div className='block-left widtr-65'>
-                    <div className='table padding-2 letter-spacing-1'>
+                    <div className='table basic-pd letter-spacing-1'>
                         <table>
                         <tr>
                             <td></td>

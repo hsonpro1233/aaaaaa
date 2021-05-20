@@ -5,7 +5,7 @@ const Channel = () => {
         <div className='in-screen channel'>
             <div className='table'>
                 <table className='width-100 text-align-center '>
-                    <tr className='font-size-11-i'>
+                    <tr>
                         <td>Ch</td>
                         <td></td>
                         <td>N</td>
@@ -13,6 +13,15 @@ const Channel = () => {
                         <td>Elev,*</td>
                         <td>St</td>
                         <td>SNR,dB</td>
+                    </tr>
+                    <tr>
+                        <td>01</td>
+                        <td>GPS</td>
+                        <td>01</td>
+                        <td>288</td>
+                        <td>14</td>
+                        <td>t</td>
+                        <td>44</td>
                     </tr>
                     <tr>
                         <td>01</td>

@@ -30,7 +30,7 @@ const GNSS = () => {
                 </div>
                 <div className='blocks footer-block'>
                     <div className='block-left'>
-                        <div className='blocks block-chars'>
+                        <div className='blocks block-chars border-bt-0'>
                             <div className='block-char-2'>
                                 <div className='in_footer-block'>
                                     <span className='tag-name'>COG</span>
